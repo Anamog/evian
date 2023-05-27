@@ -1,0 +1,28 @@
+.square{
+    width: 50px;
+    height: 100px;
+    background-color: rgb(144, 140, 221);
+}
+body{
+    background-color: bisque;
+}
+.image{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    border: 15px dotted rgb(219, 160, 221);
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+
+.water{
+    text-align: center;
+    margin: 20px 20px 0 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
